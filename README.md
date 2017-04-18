@@ -4,7 +4,7 @@ ykit-yo 示例工程。
 ## Getting Started
 ```
 $ git clone https://github.com/roscoe054/ykit-starter-yo.git
-$ cd ykit-starter-reayoct
+$ cd ykit-starter-yo
 $ npm install 或者 yarn install
 ```
 
