@@ -20,5 +20,5 @@ $ ykit pack -m
 ```
 
 ## 相关链接
-yo: https://github.com/doyoe/Yo
-ykit: https://github.com/YMFE/ykit
+- yo: https://github.com/doyoe/Yo
+- ykit: https://github.com/YMFE/ykit
