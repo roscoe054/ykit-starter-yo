@@ -17,7 +17,7 @@
     "babel-polyfill": "^6.23.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "ykit-config-yo": "^2.0.0",
+    "ykit-config-yo": "^1.2.0",
     "yo-router": "^1.1.6",
     "yo3": "^3.0.8"
   }
